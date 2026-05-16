@@ -45,7 +45,7 @@ jobs:
 
       - name: Build VitePress
         working-directory: onemancompany
-        run: bun run docs:build
+        run: bun run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
