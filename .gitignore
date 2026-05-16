@@ -1,0 +1,6 @@
+node_modules/
+
+# VitePress
+onemancompany/.vitepress/cache
+onemancompany/.vitepress/dist
+opc-methodology/
