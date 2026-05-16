@@ -5,7 +5,7 @@ Bài viết này cố gắng giới thiệu đầy đủ toàn bộ quá trình 
 Quy trình sản phẩm
 ----
 
-![](../../src/images/image-106-1024x511.png)
+![](/images/image-106-1024x511.png)
 
 Quy trình sản phẩm phù hợp hơn với doanh nghiệp một người
 
@@ -39,7 +39,7 @@ Bạn thấy đó, học từ vựng tuy có ích nhưng làm tôi khổ sở, c
 
 Tiếp theo, chúng ta hãy xem, làm thế nào từ ý tưởng còn hơi mơ hồ này đề xuất một đề xuất giá trị rõ ràng, sau đó lên kế hoạch mô hình kinh doanh, thiết kế tính năng và giao diện, xác minh và phát triển lặp lại xung quanh nó, cuối cùng biến nó thành một sản phẩm thương mại.
 
-![](../../src/images/image-107.png)
+![](/images/image-107.png)
 
 APP Phúc lợi từ vựng
 
@@ -52,7 +52,7 @@ Bước một: Lên kế hoạch mô hình kinh doanh
 
 ### Đề xuất giá trị
 
-![](../../src/images/image-108-1024x373.png)
+![](/images/image-108-1024x373.png)
 
 Đề xuất giá trị của Phúc lợi từ vựng
 
@@ -64,7 +64,7 @@ Với những đề xuất giá trị này, chúng ta có thể giúp khách hà
 
 ### Phân khúc khách hàng
 
-![](images/image-109-1024x463.png)
+![](/images/image-109-1024x463.png)
 
 Phân khúc khách hàng của Phúc lợi từ vựng
 
@@ -78,7 +78,7 @@ Ba loại khách hàng này có mục đích học tập khác nhau, nhưng thô
 
 ### Tinh chỉnh đề xuất giá trị
 
-![](images/image-110-1024x527.png)
+![](/images/image-110-1024x527.png)
 
 Đề xuất giá trị của Phúc lợi từ vựng sau khi tinh chỉnh
 
@@ -99,7 +99,7 @@ Nghe có vẻ hấp dẫn hơn nhiều rồi phải không?
 
 ### Kênh phân phối
 
-![](images/image-111-1024x577.png)
+![](/images/image-111-1024x577.png)
 
 Kênh phân phối của Phúc lợi từ vựng
 
@@ -107,7 +107,7 @@ Về mặt「Kênh phân phối」, chúng ta lên kế hoạch thu hút ngườ
 
 ### Quan hệ khách hàng
 
-![](images/image-112-1024x560.png)
+![](/images/image-112-1024x560.png)
 
 Quan hệ khách hàng của Phúc lợi từ vựng
 
@@ -115,7 +115,7 @@ Quan hệ khách hàng của Phúc lợi từ vựng
 
 ### Hoạt động chính
 
-![](images/image-113-1024x537.png)
+![](/images/image-113-1024x537.png)
 
 Hoạt động chính của Phúc lợi từ vựng
 
@@ -159,7 +159,7 @@ Tương tự cần xem xét, còn có âm thanh dùng khi học từ vựng. Cá
 
 ### Chi phí và doanh thu
 
-![](images/image-115-1024x413.png)
+![](/images/image-115-1024x413.png)
 
 Chi phí và doanh thu của Phúc lợi từ vựng
 
@@ -169,7 +169,7 @@ Do dự án chúng ta phát triển tương đối nhỏ, tài nguyên sử dụ
 
 Cuối cùng hãy xem khung mô hình kinh doanh hoàn chỉnh:
 
-![](images/image-116-1024x659.png)
+![](/images/image-116-1024x659.png)
 
 Khung mô hình kinh doanh hoàn chỉnh của Phúc lợi từ vựng
 
@@ -210,13 +210,13 @@ Như vậy chúng ta có thể in ra, dán lên tường, khi thiết kế sản
 
 Nhiều cuốn sách nhấn mạnh rằng ảnh đại diện cho chân dung người dùng phải thực tế nhất có thể, tốt nhất là dùng ảnh người thật. Nhưng cần chú ý rằng tìm ảnh người thật tùy tiện trên mạng dễ dẫn đến vấn đề về quyền chân dung. Ở đây mình muốn giới thiệu một trang web tạo ảnh đại diện người thật bằng AI, có tên là thispersondoesnotexist.com.
 
-![](images/image-117-1024x861.png)
+![](/images/image-117-1024x861.png)
 
 thispersondoesnotexist.com
 
 Tuy nhiên trang web này tạo ra chủ yếu là người phương Tây, đối với các sản phẩm trong nước thì lại có vẻ không phù hợp. Mình thích dùng trang web tạo nhân vật anime phong cách Nhật Bản hơn, chẳng hạn như trang [charat.me](https://charat.me/).
 
-![](images/image-118-1024x948.png)
+![](/images/image-118-1024x948.png)
 
 charat.me
 
@@ -224,15 +224,15 @@ charat.me
 
 Có ảnh đại diện rồi, kết hợp thêm phần mô tả nhân vật và từ khóa nhu cầu, chúng ta sẽ có một chân dung người dùng đơn giản và tiện dụng. Dưới đây là ba chân dung người dùng mà chúng ta đã hoàn thiện:
 
-![](images/image-119-1024x769.png)
+![](/images/image-119-1024x769.png)
 
 Chân dung người dùng: Vương Tiểu Khang
 
-![](images/image-120-1024x768.png)
+![](/images/image-120-1024x768.png)
 
 Chân dung người dùng: Chương Tiểu Lưu
 
-![](images/image-121-1024x767.png)
+![](/images/image-121-1024x767.png)
 
 Chân dung người dùng: Lư Tiểu Bạch
 

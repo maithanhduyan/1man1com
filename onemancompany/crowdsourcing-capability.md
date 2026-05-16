@@ -1,4 +1,4 @@
-# Khả năng thuê ngoài cộng đồng (Crowdsourcing)
+﻿# Khả năng thuê ngoài cộng đồng (Crowdsourcing)
 
 Cuối cùng còn có một khả năng rất quan trọng được xây dựng trên nền hồ sản phẩm và hồ người dùng —— khả năng thuê ngoài cộng đồng (crowdsourcing).
 
@@ -13,7 +13,7 @@ Hiện nay chúng ta có thể xử lý nhiều việc thông qua AI và tự đ
 
 Để giải quyết mâu thuẫn này, chúng ta cần có khả năng crowdsourcing. Nói đơn giản, crowdsourcing là phân công nhiệm vụ cho nhiều người, thường là người dùng sản phẩm của chúng ta. Theo cách này, chúng ta không cần thuê nhân viên, nên số lượng nhân viên sẽ không tăng, có thể đáp ứng tốt yêu cầu về quy mô của doanh nghiệp một người.
 
-![](../../src/images/image-36-1024x468.png)
+![](/images/image-36-1024x468.png)
 
 Vị trí và tầm quan trọng của khả năng crowdsourcing trong cơ sở hạ tầng
 
@@ -24,7 +24,7 @@ Phương án này nghe có vẻ rất lý tưởng, nhưng trong thực tế có
 
 Đầu tiên, không phải tất cả nhiệm vụ đều có thể crowdsource, chúng cần phải rất rõ ràng, và người thực thi nhiệm vụ mà chúng ta phân công cần có năng lực, thời gian và ý nguyện tương ứng. Vì vậy nhìn chung, chúng ta cần xử lý hết tất cả những gì bản thân, tự động hóa và AI có thể xử lý, cuối cùng mang phần không xử lý được ra để crowdsource.
 
-![](../../src/images/image-37-1024x491.png)
+![](/images/image-37-1024x491.png)
 
 Các yếu tố cấu thành hệ thống crowdsourcing
 

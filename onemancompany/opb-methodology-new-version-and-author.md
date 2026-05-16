@@ -1,4 +1,4 @@
-# Tổng quan về phương pháp luận phiên bản mới
+﻿# Tổng quan về phương pháp luận phiên bản mới
 
 Phiên bản mới của "Phương pháp luận Doanh nghiệp Một người"
 -----------
@@ -7,7 +7,7 @@ Cái tên "Phương pháp luận Doanh nghiệp Một người" có thể nghe k
 
 Sau hai đến ba năm không ngừng cải tiến, chúng ta giờ đã có phiên bản 2.0 của "Phương pháp luận Doanh nghiệp Một người". Lý do tên gọi đổi từ "công ty" sang "doanh nghiệp" là vì "công ty một người" dễ bị nhầm lẫn với mô hình công ty một thành viên trong luật doanh nghiệp, nên tôi đã đổi thành từ "doanh nghiệp".
 
-![](../../src/images/image-1024x562.png)
+![](/images/image-1024x562.png)
 
 Phương pháp luận phiên bản mới
 
@@ -30,7 +30,7 @@ Giới thiệu tác giả
 
 ### Lập trình viên độc lập
 
-![](../../src/images/Screen-Shot-2024-03-11-at-9.42.20-PM-1024x580.png)
+![](/images/Screen-Shot-2024-03-11-at-9.42.20-PM-1024x580.png)
 
 Các dự án độc lập do Easy phát triển
 
@@ -48,7 +48,7 @@ Nhưng điều khá thú vị là, thu nhập từ các dự án lập trình đ
 
 Vì vậy, tôi còn có một vai trò nữa: giảng viên khóa học.
 
-![](../../src/images/image-1-1024x604.png)
+![](/images/image-1-1024x604.png)
 
 Trang chủ Fangtang Skills Station
 
@@ -60,4 +60,4 @@ Cái gọi là lợi nhuận khả thi tối thiểu, tức là số tiền ki�
 
 Mặt khác, tôi rất hứng thú với việc kiếm tiền bằng kỹ thuật, đặc biệt là kiếm tiền một cách thanh lịch theo phương thức cá nhân. Ban đầu, tôi đã viết [《Cách lập trình viên kiếm tiền tiêu vặt một cách thanh lịch》](https://github.com/easychen/howto-make-more-money). Vì trước đây đều hướng đến lập trình viên, nên tôi đã đăng các bài viết và ebook này lên GitHub, tính đến nay chúng đã tích lũy khoảng 16K Star.
 
-![](../../src/images/image-2-1024x601.png)
+![](/images/image-2-1024x601.png)

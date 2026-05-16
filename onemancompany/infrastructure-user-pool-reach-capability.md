@@ -1,11 +1,11 @@
-# Hồ Người Dùng và Khả Năng Tiếp Cận
+﻿# Hồ Người Dùng và Khả Năng Tiếp Cận
 
 Cơ Sở Hạ Tầng Là Gì
 -------
 
 Trong Phương Pháp Luận Doanh Nghiệp Một Người phiên bản 2.0, chúng tôi đề cập đến ba khía cạnh.
 
-![](images/image-16-1024x382.png)
+![](/images/image-16-1024x382.png)
 
 Ba nội dung chính của Phương Pháp Luận Doanh Nghiệp Một Người
 
@@ -19,7 +19,7 @@ Trong các nội dung trước, chúng tôi đã nhấn mạnh nhiều lần r�
 
 Theo quan điểm này, doanh nghiệp một người giống như hình minh họa, trong một doanh nghiệp một người có nhiều hoạt động kinh doanh một người.
 
-![](images/image-17-1024x503.png)
+![](/images/image-17-1024x503.png)
 
 Mỗi hoạt động kinh doanh tự chiến đấu riêng lẻ
 
@@ -27,7 +27,7 @@ Nhưng thực tế, một khi vận hành theo cách này, bạn sẽ phát hi�
 
 Vì năng lượng bị phân tán sang các hoạt động kinh doanh khác nhau, nên các hoạt động kinh doanh một người phải phối hợp với nhau. Một số chức năng và tài nguyên chung cần được trích xuất ra, đặt vào một nơi để sử dụng chung, chúng tôi gọi đó là cơ sở hạ tầng. Đây là nội dung trọng tâm chúng tôi muốn trình bày hôm nay.
 
-![](images/image-18-1024x501.png)
+![](/images/image-18-1024x501.png)
 
 Cơ Sở Hạ Tầng
 
@@ -44,7 +44,7 @@ Ví dụ ở trong nước, nếu đăng nhập qua email, tỷ lệ email đế
 
 Sau khi thử nghiệm, chúng tôi phát hiện ra rằng, đối với doanh nghiệp một người, phương án đăng nhập người dùng chi phí thấp nhất là đăng nhập qua bên thứ ba.
 
-![](images/image-19-1024x683.png)
+![](/images/image-19-1024x683.png)
 
 Đăng nhập qua bên thứ ba
 
@@ -69,7 +69,7 @@ Tiếp theo, có hồ người dùng rồi, nếu không thể tiếp cận ngư
 
 Vì vậy, khi xây dựng hồ người dùng, chúng ta nhất thiết phải có khả năng tiếp cận, tức là có thể gửi tin nhắn cho người dùng hoặc thông báo cho họ bằng cách khác, như vậy mới có thể tái sử dụng lưu lượng và bán lại sản phẩm.
 
-![](images/image-20-1024x679.png)
+![](/images/image-20-1024x679.png)
 
 Phương thức tiếp cận
 

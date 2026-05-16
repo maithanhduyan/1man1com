@@ -1,8 +1,8 @@
-# Nền tảng logic: Tại sao lấy nhỏ thắng lớn là có thể
+﻿# Nền tảng logic: Tại sao lấy nhỏ thắng lớn là có thể
 
 Trong phần "Lập kế hoạch doanh nghiệp một người", tôi muốn chia sẻ với các bạn ba nội dung quan trọng: nền tảng logic, lựa chọn đường đua và chiến lược cạnh tranh.
 
-![](images/image-14-1024x363.png)
+![](/images/image-14-1024x363.png)
 
 Ba hướng tư duy trong lập kế hoạch doanh nghiệp một người
 
@@ -22,7 +22,7 @@ Có câu cổ ngữ: "Thời thế tạo anh hùng". Dù thông minh đến mấ
 
 Đằng sau thời thế, là sự thay đổi của ranh giới.
 
-![](../../src/images/river2-1024x674.png)
+![](/images/river2-1024x674.png)
 
 Logic kinh doanh cũ
 
@@ -30,7 +30,7 @@ Hãy xem ví dụ này: trong hình trên có một dòng sông. Tôi dùng mũi
 
 Nhưng do thay đổi công nghệ, điều chỉnh chính sách, thay đổi thói quen tiêu dùng và các yếu tố khác, nay xuất hiện logic kinh doanh mới. Logic kinh doanh mới này có thể như một nhánh sông mới, gây ra sự phân lưu trong logic kinh doanh cũ.
 
-![](../../src/images/image-16-1024x631.png)
+![](/images/image-16-1024x631.png)
 
 Logic kinh doanh mới
 
@@ -42,7 +42,7 @@ Ví dụ, WordPress là phần mềm CMS mã nguồn mở lớn nhất thế gi�
 
 ## Các loại thay đổi ranh giới
 
-![](../../src/images/image-17-1024x433.png)
+![](/images/image-17-1024x433.png)
 
 Các loại thay đổi ranh giới phổ biến
 
@@ -74,13 +74,13 @@ Nhưng thay đổi chính sách và chính trị là điều chúng ta khó dự
 
 Bạn có thể thắc mắc: đã xuất hiện đường kinh doanh mới, vậy những công ty đang ở trên con đường kinh doanh cũ chắc chắn không phải là người mù, họ không nhìn thấy sao? Tại sao họ không tham gia, không thực hiện?
 
-![](../../src/images/image-19.png)
+![](/images/image-19.png)
 
 《Thế lưỡng nan của nhà đổi mới》
 
 Trong cuốn sách "Thế lưỡng nan của nhà đổi mới", có phần chuyên luận về vấn đề này, đề nghị mọi người đọc khi có dịp.
 
-![](../../src/images/image-18-1024x319.png)
+![](/images/image-18-1024x319.png)
 
 Thay đổi ranh giới và đổi mới phá vỡ
 
@@ -98,7 +98,7 @@ Nhưng khi thị trường máy tính xách tay tăng trưởng nhanh chóng, nh
 
 Các công ty ở vị trí thống trị thường quá chú trọng vào sản phẩm, công nghệ và khách hàng hiện tại, phản ứng chậm với đổi mới phá vỡ, dẫn đến cuối cùng bị thị trường thay thế. Đây chính là "thế lưỡng nan của nhà đổi mới". Logic này không chỉ áp dụng cho doanh nghiệp một người mà còn là logic cốt lõi của các startup.
 
-![](../../src/images/image-20.png)
+![](/images/image-20.png)
 
 《Huyền thoại Netflix》
 

@@ -1,8 +1,8 @@
-# Xây dựng cơ sở hạ tầng cho doanh nghiệp một người
+﻿# Xây dựng cơ sở hạ tầng cho doanh nghiệp một người
 
 Qua các thảo luận trước, chúng ta cho rằng cơ sở hạ tầng của doanh nghiệp một người cần có ba bộ chứa cốt lõi và bốn năng lực then chốt: pool người dùng, pool nội dung, pool sản phẩm; năng lực tiếp cận, năng lực thanh toán, năng lực tự động hóa và năng lực cộng đồng.
 
-![](../../src/images/image-39-1024x457.png)
+![](/images/image-39-1024x457.png)
 
 Ba pool, bốn năng lực của cơ sở hạ tầng
 
@@ -13,7 +13,7 @@ Phương thức xây dựng
 
 Lựa chọn đầu tiên cần thực hiện là: tự phát triển hoặc thuê người phát triển (outsource); hay xây dựng dựa trên dự án mã nguồn mở, chẳng hạn dựa trên WordPress.
 
-![](../../src/images/image-40-1024x641.png)
+![](/images/image-40-1024x641.png)
 
 Lựa chọn phương thức xây dựng
 
@@ -41,7 +41,7 @@ Nếu nhất định phải tìm nhược điểm, thì mức độ hoàn thiệ
 
 Một vấn đề tiềm ẩn khác là khi vận hành website người dùng hoặc nội dung quy mô lớn bằng WordPress, hiệu năng có thể thành vấn đề. Mặc dù hầu hết các vấn đề hiệu năng là do plugin gây ra, nhưng đây vẫn là một thách thức. Tuy nhiên, số lượng người dùng sản phẩm của chúng tôi còn cách rất xa quy mô đó, và chúng tôi vẫn đang nỗ lực để gặp phải vấn đề này.
 
-![](../../src/images/image-41-1024x467.png)
+![](/images/image-41-1024x467.png)
 
 So sánh ưu nhược điểm các phương thức xây dựng
 
@@ -49,7 +49,7 @@ So sánh ưu nhược điểm các phương thức xây dựng
 
 Thực hành tốt nhất theo quan điểm của chúng tôi là: trước tiên dựa trên WordPress để làm sản phẩm khả thi tối thiểu (MVP) và gây quỹ cộng đồng cho nghiệp vụ, đồng thời có thể đặt trang web chính thức và tài liệu sản phẩm trên nền tảng này. Khi nghiệp vụ tăng trưởng và lượng người dùng tăng lên, chúng ta mới tự phát triển.
 
-![](../../src/images/image-42-1024x575.png)
+![](/images/image-42-1024x575.png)
 
 Thực hành tốt nhất
 

@@ -1,4 +1,4 @@
-# Lựa chọn đường đua: Doanh nghiệp một người chọn đường đua như thế nào
+﻿# Lựa chọn đường đua: Doanh nghiệp một người chọn đường đua như thế nào
 
 Bây giờ chúng ta sẽ thảo luận về phần thứ hai của "Lập kế hoạch cho doanh nghiệp một người" – lựa chọn đường đua.
 
@@ -9,7 +9,7 @@ Tránh xa nhu cầu thiết yếu đại chúng
 
 Đối với các công ty lớn và startup, lựa chọn này có thể là điều hiển nhiên, vì công ty lớn có đòn bẩy kép về nhân lực và vốn, còn startup dựa vào đòn bẩy vốn. Tuy nhiên, đối với doanh nghiệp một người, nếu theo cùng logic đó để chọn đường đua, thì chắc chắn sẽ đối đầu trực tiếp với các công ty lớn và startup, tạo ra cạnh tranh trực tiếp, điều này rõ ràng không phải là điều chúng ta mong muốn.
 
-![](../../src/images/image-49-1024x820.png)
+![](/images/image-49-1024x820.png)
 
 Nhu cầu thiết yếu đại chúng: Đường đua đông đúc và dễ bị nghiền nát
 
@@ -21,13 +21,13 @@ Ngược lại, chúng ta có thể chọn bắt đầu từ những nhu cầu y
 
 Lấy ví dụ về bữa ăn dinh dưỡng, với đại chúng, đây có thể là nhu cầu yếu, vì việc thiếu hoặc thừa dinh dưỡng thỉnh thoảng không phải là điều họ quan tâm nhất; hầu hết mọi người chú trọng hơn đến hương vị của thức ăn. Tuy nhiên, đối với nhóm mẹ và bé, dinh dưỡng là mối quan tâm hàng đầu, là nhu cầu thiết yếu, quan trọng hơn nhiều so với hương vị.
 
-![](../../src/images/image-50-1024x543.png)
+![](/images/image-50-1024x543.png)
 
 Nhu cầu yếu của đại chúng có thể là nhu cầu mạnh của nhóm nhỏ
 
 Thông qua chiến lược này, chúng ta có thể tìm thấy trong nhu cầu yếu của đại chúng một phần thị trường ngách thực sự là nhu cầu thiết yếu, đây chính là điều mà doanh nghiệp một người cần tập trung chú ý. Nếu bạn thấy thị trường ngách này vẫn đầy cạnh tranh, thì có thể tiếp tục phân khúc sâu hơn. Ưu điểm của doanh nghiệp một người là, dù thị trường này rất nhỏ, nhưng thường là đủ cho một doanh nghiệp một người.
 
-![](../../src/images/image-51-1024x376.png)
+![](/images/image-51-1024x376.png)
 
 Doanh nghiệp một người có thể chọn thị trường ngách hơn
 

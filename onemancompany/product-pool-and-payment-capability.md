@@ -1,4 +1,4 @@
-# Hồ sản phẩm và khả năng thanh toán
+﻿# Hồ sản phẩm và khả năng thanh toán
 
 Hồ sản phẩm
 ---
@@ -11,7 +11,7 @@ Mặt khác, với hồ người dùng và hồ nội dung, bản thân nghiệp
 
 Do đó, chúng ta tích hợp các nghiệp vụ này thành một loạt các thành phần nghiệp vụ, đồng thời dùng "hồ sản phẩm" để chứa đựng chúng.
 
-![](../../src/images/image-26-1024x858.png)
+![](/images/image-26-1024x858.png)
 
 Từ đa nghiệp vụ đến hồ sản phẩm + thành phần nghiệp vụ
 
@@ -34,7 +34,7 @@ May mắn thay, chúng ta vẫn có một số nhà cung cấp dịch vụ thanh
 
 Như XorPay, đây thực ra là một nền tảng thanh toán vi mô, trên nền tảng này bạn có thể kết nối WeChat và Alipay. Có thể tự đăng ký kích hoạt, địa chỉ cửa hàng có thể dùng địa chỉ nhà ở, ảnh cửa hàng có thể dùng ảnh cổng chính. Ngoài ra tôi nhớ nó có phí kích hoạt một trăm, có thể xác nhận với bộ phận chăm sóc khách hàng.
 
-![](../../src/images/image-27.png)
+![](/images/image-27.png)
 
 Giải thích về phí kích hoạt trong FAQ của XorPay
 
@@ -59,7 +59,7 @@ Giải pháp của chúng ta là xây dựng một quầy thu ngân của riêng
 
 Nói đơn giản, nó coi mỗi nghiệp vụ như một ứng dụng, sau đó gán cho ứng dụng đó một tham số. Người dùng mang theo tham số này chuyển đến trang thu ngân để thanh toán. Sau khi thanh toán xong, quầy thu ngân dùng ID đơn hàng này để chuyển hướng, người dùng lại mang ID đơn hàng đã thanh toán đến nghiệp vụ để xác minh, toàn bộ quá trình thanh toán hoàn tất.
 
-![](../../src/images/Screen-Shot-2024-07-07-at-12.59.57-PM-1024x669.png)
+![](/images/Screen-Shot-2024-07-07-at-12.59.57-PM-1024x669.png)
 
 Sơ đồ quy trình quầy thu ngân
 
@@ -75,7 +75,7 @@ Hầu hết các plugin WordPress liên quan đến thanh toán đều sử dụ
 
 Nó cung cấp các chức năng thanh toán và hàng hóa hoàn chỉnh, nhưng thiếu một số nhà cung cấp thanh toán thông dụng trong nước.
 
-![](../../src/images/image-29-1024x644.png)
+![](/images/image-29-1024x644.png)
 
 Giao diện cài đặt cổng thanh toán WooCommerce
 
@@ -92,7 +92,7 @@ Năng lực của doanh nghiệp một người rất hạn chế, nên chi phí
 
 Trong các phương pháp luận khởi nghiệp tương đối chủ đạo, có hai thứ cần xác nhận cốt lõi: một là đề xuất giá trị, tức là hàng hóa của chúng ta có giá trị với người dùng mục tiêu không; thứ hai là kênh phân phối, tức là sản phẩm của chúng ta có giá trị với nhóm người này, nhưng nó có thể tăng trưởng không? Nó có thể đạt quy mô chúng ta mong muốn không?
 
-![](../../src/images/image-30-1024x590.png)
+![](/images/image-30-1024x590.png)
 
 Hai giả thuyết quan trọng nhất
 
@@ -130,7 +130,7 @@ Ví dụ, chúng ta làm một nhóm chat tính phí để tham gia, điều nà
 
 Về giao hàng, nếu làm đơn giản hơn, chúng ta có thể đưa phần mềm hoặc video lên lưu trữ đám mây, cung cấp liên kết cho mọi người qua thông báo nhóm, cũng có thể đưa thẳng vào file nhóm, điều này tùy thuộc vào chức năng tương ứng của nhóm.
 
-![](../../src/images/image-31.png)
+![](/images/image-31.png)
 
 Thực hiện gọi vốn cộng đồng qua nhóm chat
 
@@ -144,19 +144,19 @@ Tất nhiên, nếu chúng ta thường xuyên làm gọi vốn cộng đồng, 
 
 Nơi cần chỉnh sửa chỉ có hai chỗ. Thứ nhất là, chúng ta có thể cần thêm một shortcode để xuất thống kê về doanh số bán hàng của sản phẩm và liệu có đạt mục tiêu không, ví dụ như hình dưới đây.
 
-![](../../src/images/image-32.png)
+![](/images/image-32.png)
 
 Hiệu ứng render shortcode gọi vốn cộng đồng sản phẩm
 
 Thứ hai, chúng ta cần một nút hoàn tiền hàng loạt. Nhưng điều này thực ra là tùy chọn, không có nút này cũng có thể hoàn tiền, chỉ là phiền hơn một chút.
 
-![](../../src/images/image-33.png)
+![](/images/image-33.png)
 
 Thêm nút hoàn tiền hàng loạt cho WooCommerce
 
 Vì vậy, đừng nghĩ gọi vốn cộng đồng là phiền phức, cũng đừng nghĩ gọi vốn cộng đồng nhất thiết phải có hệ thống, đây là một cách tư duy, hy vọng mọi người áp dụng nó. Điều này đối với doanh nghiệp một người và nhóm nhỏ thiếu nguồn lực, thực sự rất rất quan trọng.
 
-![](../../src/images/image-34-1024x463.png)
+![](/images/image-34-1024x463.png)
 
 Bản chất khả năng gọi vốn cộng đồng là khả năng thanh toán
 

@@ -1,4 +1,4 @@
-# Công cụ tư duy: «Bản đồ Doanh nghiệp Một người» và «Báo cáo Tháng Doanh nghiệp Một người»
+﻿# Công cụ tư duy: «Bản đồ Doanh nghiệp Một người» và «Báo cáo Tháng Doanh nghiệp Một người»
 
 Trong khuôn khổ lập kế hoạch cho doanh nghiệp một người, chúng ta đã trình bày ba nội dung lớn: logic nền tảng, lựa chọn đường đua và chiến lược cạnh tranh. Để kết hợp ba yếu tố này một cách hiệu quả, chúng ta còn cung cấp một công cụ tư duy mà tôi gọi là "Bản đồ Doanh nghiệp Một người" hay "OPB Canvas".
 

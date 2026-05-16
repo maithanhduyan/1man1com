@@ -1,4 +1,4 @@
-# Chiến lược cạnh tranh: Lợi thế có cấu trúc
+﻿# Chiến lược cạnh tranh: Lợi thế có cấu trúc
 
 Mặc dù khuất phục đối thủ mà không cần chiến đấu là thượng sách, nhưng chúng ta vẫn luôn có những lúc phải đối mặt trực tiếp với cạnh tranh. Bài viết này sẽ thảo luận về chiến lược trong tình huống đó.
 
@@ -7,7 +7,7 @@ Lợi thế có cấu trúc là gì
 
 Lợi thế có cấu trúc là lợi thế được xây dựng dựa trên "điểm yếu cố hữu" của sản phẩm cạnh tranh. Thuật ngữ "điểm yếu cố hữu" xuất phát từ cuốn sách đã có tuổi «Đổi mới Bất đối xứng». Mặc dù tôi không chắc khái niệm này có nguồn gốc từ đó hay không, nhưng đây là nơi tôi lần đầu tiên tiếp cận nó.
 
-![](../../src/images/image-62-756x1024.png)
+![](/images/image-62-756x1024.png)
 
 «Đổi mới Bất đối xứng»
 
@@ -15,7 +15,7 @@ Lợi thế có cấu trúc là lợi thế được xây dựng dựa trên "đ
 
 Điểm yếu cố hữu là những điểm yếu khó có thể khắc phục. Sự khó khắc phục này không phải vì không nhìn thấy, mà là do đặc tính của mạng lưới giá trị, khiến cho dù có nhìn thấy cũng không thể thay đổi. Thông thường, những điểm yếu này xuất phát từ hai khía cạnh: một là mô hình kinh doanh, hai là lợi thế cạnh tranh.
 
-![](../../src/images/image-63-1024x624.png)
+![](/images/image-63-1024x624.png)
 
 Các nguồn gốc phổ biến của điểm yếu cố hữu
 
@@ -23,7 +23,7 @@ Các nguồn gốc phổ biến của điểm yếu cố hữu
 
 Lấy ví dụ về mảng kinh doanh trực tuyến của Blockbuster mà chúng ta đã thảo luận trước đây, mô hình kinh doanh của nó tự thân đã tồn tại mâu thuẫn — việc đưa vào mô hình mới (kinh doanh trực tuyến) sẽ phá hủy mô hình cũ (cửa hàng offline). Trong tình huống này, công ty sẽ cân nhắc: tại sao phải thay đổi mô hình cũ vì một mô hình mới (chưa thực sự trưởng thành), đặc biệt khi mô hình cũ vẫn mang lại doanh thu đáng kể. Mặt khác, dù ban lãnh đạo đã quyết tâm, chỉ cần mạng lưới giá trị chưa được cập nhật, việc thực thi cũng sẽ gặp muôn vàn khó khăn. Đây chính là điểm yếu cố hữu từ mô hình kinh doanh.
 
-![](../../src/images/image-64-709x1024.png)
+![](/images/image-64-709x1024.png)
 
 «Câu chuyện Netflix»
 
@@ -46,7 +46,7 @@ Logic cốt lõi của nó là: tận dụng các sản phẩm phụ hoặc sả
 
 Hãy xem một ví dụ rất thiết thực cho lập trình viên.
 
-![](../../src/images/image-65-1024x368.png)
+![](/images/image-65-1024x368.png)
 
 Lợi thế sản phẩm phụ kép
 
@@ -68,7 +68,7 @@ Lợi thế bên thứ ba là chúng ta có thể làm những việc mà các b
 
 #### Bên chính thức không muốn làm
 
-![](../../src/images/image-66.png)
+![](/images/image-66.png)
 
 Ứng dụng tổng hợp phong bì đỏ dựa trên lợi thế bên thứ ba
 
@@ -82,7 +82,7 @@ Cũng có một số lĩnh vực kinh doanh mà bên chính thức có thể r�
 
 Tổng hợp là một thủ thuật phổ biến của lợi thế bên thứ ba. Vì ngoài việc dựa trên lợi thế bên thứ ba, nó thường còn mang lại sự tiện lợi cho người dùng.
 
-![](../../src/images/image-67-1024x941.png)
+![](/images/image-67-1024x941.png)
 
 Tổng hợp kết quả LLM
 
@@ -94,7 +94,7 @@ Lấy ứng dụng VerifAI làm ví dụ, nó cho phép người dùng đặt c�
 
 Chi phí thấp là một lợi thế có cấu trúc khổng lồ của doanh nghiệp một người. Trong các cuộc thảo luận, chúng ta liên tục đề cập đến một khái niệm: "lợi nhuận khả thi tối thiểu". Chỉ cần đạt được lợi nhuận khả thi tối thiểu này, chúng ta có thể hòa vốn. Ngay cả khi không kiếm được tiền, nếu có thể thỏa mãn sở thích và đam mê của mình, chúng ta vẫn có thể tiếp tục kinh doanh — dù là năm năm, mười năm, cho đến khi cuối cùng thành công. Nếu là doanh nghiệp một người tồn tại dưới dạng công việc phụ, chúng ta thậm chí có thể bù đắp một phần chi phí để duy trì. Điều này cho phép chúng ta suy nghĩ từ góc độ chủ nghĩa dài hạn.
 
-![](../../src/images/image-68-711x1024.png)
+![](/images/image-68-711x1024.png)
 
 Không phải ai cũng có thể lên kế hoạch dài hạn
 
@@ -110,7 +110,7 @@ Ngược lại, các công ty lớn và công ty khởi nghiệp thường thi�
 
 Các công ty khởi nghiệp vì cần dựa vào vốn đầu tư để phát triển, coi tăng trưởng là chỉ số cốt lõi, nên càng tự nhiên thiếu kiên nhẫn hơn. Câu chuyện của Delicious và Pinboard trong lĩnh vực dịch vụ đánh dấu trang mạng xã hội là một ví dụ điển hình.
 
-![](../../src/images/image-69-921x1024.png)
+![](/images/image-69-921x1024.png)
 
 Delicious và Pinboard
 
@@ -126,7 +126,7 @@ Câu chuyện của Delicious và Pinboard cho thấy cách một doanh nghiệp
 
 Lợi thế dịch vụ độc quyền là một lợi thế có cấu trúc khác của doanh nghiệp một người. Logic cốt lõi của nó là: do số lượng khách hàng có hạn, chúng ta có thể cung cấp dịch vụ cá nhân hóa cho từng khách hàng, với điều kiện giá trị đơn hàng của mỗi khách hàng đủ cao.
 
-![](../../src/images/image-70.png)
+![](/images/image-70.png)
 
 Lợi thế dịch vụ độc quyền
 

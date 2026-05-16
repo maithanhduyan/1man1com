@@ -1,11 +1,11 @@
-# Kiểm soát rủi ro: Bắt đầu từ công việc phụ
+﻿# Kiểm soát rủi ro: Bắt đầu từ công việc phụ
 
 Doanh nghiệp một người do ít tài nguyên và cạnh tranh lớn nên tỷ lệ thành công tổng thể không cao. Nhưng nếu chúng ta có thể kiểm soát hiệu quả các rủi ro trong đó, thì sẽ nâng cao đáng kể tỷ lệ thành công. Chủ đề này sẽ thảo luận về các vấn đề liên quan đến kiểm soát rủi ro của doanh nghiệp một người.
 
 Bắt đầu từ lợi thế
 -----
 
-![](../../src/images/image-93.png)
+![](/images/image-93.png)
 
 Đầu tiên, lời khuyên tôi muốn dành cho mọi người là, đừng bốc đồng mà bỏ việc. Cách làm tốt nhất là bắt đầu từ công việc phụ, bắt đầu từ lợi thế. Ở đây liên quan đến hai lợi thế cốt lõi: lợi thế sản phẩm phụ và lợi thế chi phí thấp.
 
@@ -34,7 +34,7 @@ Nhiều lập trình viên lo lắng về việc sau 35 tuổi công ty không c
 
 Đối với lập trình viên và cộng đồng kỹ thuật, công việc phụ còn có ý nghĩa bổ sung về an toàn nghề nghiệp.
 
-![](../../src/images/image-94.png)
+![](/images/image-94.png)
 
 Cập nhật kiến trúc được thúc đẩy bởi nợ kỹ thuật
 
@@ -49,7 +49,7 @@ Tăng trưởng dần dần
 
 Một mô hình tốt là, bắt đầu từ công việc phụ, liên tục tăng trưởng MRR (thu nhập định kỳ hàng tháng), dần dần giảm bớt sự phụ thuộc vào công việc chính, cho đến khi công việc phụ và công việc chính tách rời nhau, rồi mới xem xét chuyển công việc phụ thành công việc chính. Chúng ta gọi mô hình này là "tăng trưởng dần dần".
 
-![](../../src/images/image-95.png)
+![](/images/image-95.png)
 
 Tăng trưởng dần dần
 

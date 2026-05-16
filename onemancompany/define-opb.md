@@ -1,4 +1,4 @@
-# Định nghĩa doanh nghiệp một người
+﻿# Định nghĩa doanh nghiệp một người
 
 Doanh nghiệp một người là gì
 -------
@@ -9,13 +9,13 @@ Trước tiên, hãy cùng nói về doanh nghiệp một người là gì.
 
 Ở đây, tôi muốn đưa ra định nghĩa của riêng mình: "Doanh nghiệp một người là một thực thể kinh doanh được dẫn dắt bởi cá nhân hoặc thương hiệu cá nhân".
 
-![](../../src/images/image-5-1024x353.png)
+![](/images/image-5-1024x353.png)
 
 Doanh nghiệp một người là gì
 
 Lý do chọn gọi là "thực thể kinh doanh" thay vì "công ty" là vì có một quan niệm sai lầm phổ biến rằng nhất thiết phải đăng ký thành lập công ty. Mặc dù sau này tôi gọi nó là "doanh nghiệp", quan niệm sai lầm đó vẫn tồn tại.
 
-![](../../src/images/image-6-1024x462.png)
+![](/images/image-6-1024x462.png)
 
 Định nghĩa cơ bản của doanh nghiệp một người
 
@@ -29,7 +29,7 @@ Vì bạn có thể coi nó như giai đoạn đầu của một công ty khởi
 
 Nhiều người đồng nhất "doanh nghiệp một người" với "hộ kinh doanh cá thể", điều đó là không đúng. Chúng có sự khác biệt căn bản.
 
-![](../../src/images/image-7-1024x382.png)
+![](/images/image-7-1024x382.png)
 
 Sự khác biệt giữa doanh nghiệp một người và hộ kinh doanh cá thể
 
@@ -37,7 +37,7 @@ Cốt lõi của doanh nghiệp một người nằm ở việc kiếm tiền th
 
 ### Doanh nghiệp một người không bằng công ty khởi nghiệp
 
-![](../../src/images/image-8-1024x347.png)
+![](/images/image-8-1024x347.png)
 
 Sự khác biệt giữa doanh nghiệp một người và công ty khởi nghiệp
 
@@ -66,13 +66,13 @@ Một khía cạnh khác, dù bạn hoàn toàn phù hợp với định nghĩa 
 
 Sau khi thảo luận chi tiết về định nghĩa doanh nghiệp một người, hãy cùng xem xét các đặc điểm của doanh nghiệp một người.
 
-![](../../src/images/image-9-1024x390.png)
+![](/images/image-9-1024x390.png)
 
 Đặc điểm của doanh nghiệp một người
 
 Nó có ba đặc điểm nổi bật: số lượng nhân viên ít, nguồn lực hạn chế, và môi trường cạnh tranh mà nó đối mặt là dùng nhỏ đánh lớn.
 
-![](images/image-10-1024x370.png)
+![](/images/image-10-1024x370.png)
 
 Ưu và nhược điểm của việc ít nhân viên
 
@@ -107,13 +107,13 @@ Một khía cạnh khác, ngay cả khi bạn hoàn toàn phù hợp với đị
 
 Sau khi thảo luận chi tiết về định nghĩa doanh nghiệp một người, hãy cùng xem xét các đặc điểm của doanh nghiệp một người.
 
-![](../../src/images/image-9-1024x390.png)
+![](/images/image-9-1024x390.png)
 
 Đặc điểm của doanh nghiệp một người
 
 Nó có ba đặc điểm nổi bật: ít nhân viên, nguồn lực hạn chế, và môi trường cạnh tranh là lấy nhỏ đánh lớn.
 
-![](../../src/images/image-10-1024x370.png)
+![](/images/image-10-1024x370.png)
 
 Ưu và nhược điểm của việc ít nhân viên
 

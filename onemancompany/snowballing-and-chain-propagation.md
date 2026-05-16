@@ -1,8 +1,8 @@
-# Logic nền tảng: Hiệu ứng quả cầu tuyết và lan truyền theo chuỗi
+﻿# Logic nền tảng: Hiệu ứng quả cầu tuyết và lan truyền theo chuỗi
 
 Chúng ta tiếp tục khám phá logic nền tảng. Lần này hãy nói về hiệu ứng quả cầu tuyết và lan truyền theo chuỗi.
 
-![](../../src/images/image-43-1024x651.png)
+![](/images/image-43-1024x651.png)
 
 Lãi kép và quả cầu tuyết
 
@@ -17,7 +17,7 @@ Giả sử tỷ suất lợi nhuận hàng năm là 100%, vốn gốc 100.000, n
 
 Dù không chủ động đầu tư, ở hầu hết các ngân hàng tại nước ta, tiết kiệm có kỳ hạn cũng có thể chọn nhập lãi vào vốn gốc khi đáo hạn để tái gửi, qua đó thực hiện hiệu ứng lãi kép. Tất nhiên, do lãi suất bản thân không cao, vốn gốc không nhiều, chu kỳ lại quá dài, tốc độ tăng trưởng tài sản theo cách này còn chưa như ý.
 
-![](../../src/images/image-42-817x1024.png)
+![](/images/image-42-817x1024.png)
 
 Quản lý tài chính thụ động là kỹ năng thiên bẩm của tộc Tiên
 
@@ -41,7 +41,7 @@ Hãy đưa ra một số ví dụ đã được ứng dụng rộng rãi trong l
 -   UGC: Đăng nội dung gây ra thảo luận của người dùng, tổng hợp thảo luận của người dùng làm nội dung mới để đăng, rồi lại tổng hợp thảo luận về nội dung mới
 -   Động cơ tăng trưởng có trả phí: Trả tiền cho kênh để thu hút người dùng cho sản phẩm thương mại, tái đầu tư tiền kiếm được từ người dùng vào kênh, thu hút thêm người dùng
 
-![](../../src/images/image-44-800x1024.png)
+![](/images/image-44-800x1024.png)
 
 Dùng lợi nhuận từ tài sản hiện có để đầu tư vào tài sản mới
 
@@ -52,7 +52,7 @@ Nhìn từ góc độ khác, khi sản phẩm được phát triển sâu thì t
 Lan truyền theo chuỗi: Người truyền người
 --------
 
-![](../../src/images/image-45-1024x894.png)
+![](/images/image-45-1024x894.png)
 
 Lan truyền theo chuỗi
 
@@ -68,7 +68,7 @@ Nếu muốn hiểu sâu về lan truyền theo chuỗi, có hai cuốn sách ki
 
 Cuốn sách《Điểm Bùng Phát》（The Tipping Point）do Malcolm Gladwell viết, lần đầu xuất bản năm 2000. Chủ yếu khám phá cách những thay đổi nhỏ có thể gây ra hiệu ứng xã hội lớn, tức là lý thuyết "điểm bùng phát". Tác giả mượn khái niệm từ dịch tễ học, triển khai nghiên cứu thông qua việc so sánh các hiện tượng xã hội với sự lây lan của virus.
 
-![](../../src/images/image-46-722x1024.png)
+![](/images/image-46-722x1024.png)
 
 《Điểm Bùng Phát》
 
@@ -87,7 +87,7 @@ Trong đó, quy luật ít người dù trong sự bùng nổ quy mô lớn củ
 
 Cuốn sách《Lan Truyền》（Contagious: Why Things Catch On）do Jonah Berger viết, xuất bản năm 2013. Trong sách, tác giả đề xuất sáu nguyên tắc khiến mọi thứ trở nên có tính lan truyền, tức là mô hình "STEPPS" của Berger. Cá nhân cho rằng, cuốn sách này có thể xem là sự bổ sung tuyệt vời cho《Điểm Bùng Phát》, hai cuốn cùng tạo nên lý thuyết lan truyền theo chuỗi tương đối hoàn chỉnh và có tính thực tiễn cao.
 
-![](../../src/images/image-47-712x1024.png)
+![](/images/image-47-712x1024.png)
 
 《Lan Truyền》
 
@@ -102,13 +102,13 @@ Sáu nguyên tắc như sau:
 
 Trong sáu nguyên tắc, nghiên cứu về cảm xúc rất thú vị và đồng thời cũng có phần phản trực giác: sự thỏa mãn và buồn bã không thúc đẩy lan truyền.
 
-![](../../src/images/image-48-1024x227.png)
+![](/images/image-48-1024x227.png)
 
 Hiệu ứng kích thích cảm xúc
 
 Những nguyên tắc này đã được chứng minh và sử dụng rộng rãi, khi chúng ta không biết cách lên kế hoạch một chiến dịch lan truyền, có thể đi qua từng nguyên tắc, thường sẽ nhanh chóng có được cảm hứng. Chúng ta cũng đã thiết kế "Canvas Lan Truyền Theo Chuỗi", giúp mọi người suy nghĩ toàn diện hơn.
 
-![](../../src/images/opb-chain-propagation-1024x573.png)
+![](/images/opb-chain-propagation-1024x573.png)
 
 Canvas Lan Truyền Theo Chuỗi OPB
 

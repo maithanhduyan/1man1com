@@ -1,4 +1,4 @@
-# Khám Phá Lợi Thế: Lợi Thế Từ Sản Phẩm Phụ
+﻿# Khám Phá Lợi Thế: Lợi Thế Từ Sản Phẩm Phụ
 
 
 Khám Phá Lợi Thế và Xây Dựng Doanh Nghiệp Một Người
@@ -19,7 +19,7 @@ Nhưng nếu chúng ta có thể khai thác triệt để sản phẩm phụ t�
 
 ### Quy Trình Làm Việc và Phương Pháp Luận
 
-![](../../src/images/image-83.png)
+![](/images/image-83.png)
 
 Sản phẩm phụ lớn nhất từ công việc chính: quy trình làm việc và phương pháp luận
 
@@ -31,7 +31,7 @@ Sản phẩm phụ lớn nhất từ công việc chính là quy trình làm vi�
 
 Ví dụ như xuất bản sách — không chỉ phù hợp để bán phương pháp luận mà còn là một trong những kênh tốt nhất để có được tầm ảnh hưởng trong ngành. Thậm chí ngay cả khi chỉ là dịch giả, bạn cũng có thể "nhờ bóng cây lớn mà hưởng mát".
 
-![](../../src/images/image-84-707x1024.png)
+![](/images/image-84-707x1024.png)
 
 《Lớp Học Viết Truyện Của Bậc Thầy》
 
@@ -49,7 +49,7 @@ Trước đây khi làm lập trình viên độc lập, tôi thường bật ph
 
 Việc làm này ban đầu chỉ nhằm tận dụng tối đa sản phẩm phụ, về sau đã giúp tôi vượt qua giai đoạn không có thu nhập khi làm lập trình viên độc lập toàn thời gian. Sau đó tôi lại đúc kết phương pháp luận ghi hình và tạo hướng dẫn kỹ thuật thành một [khóa học kiếm tiền từ khóa học online](https://stack.ftqq.com/course/detail/5), thực hiện lợi thế sản phẩm phụ kép.
 
-![](../../src/images/wangke-bianxian-ke.png)
+![](/images/wangke-bianxian-ke.png)
 
 Khóa học kiếm tiền từ khóa học online
 
@@ -64,7 +64,7 @@ So với khóa học video, sách điện tử cũng có những ưu và nhượ
 
 Năm 2018, tôi từng xuất bản một cuốn sách khoảng hai vạn chữ 《[Cẩm Nang Đổi Việc Toàn Diện Cho Lập Trình Viên](https://read.douban.com/ebook/7611058/)》, định giá một đến hai tệ, tổng thu nhập sau thuế được khoảng 6000 tệ.
 
-![](../../src/images/image-85.png)
+![](/images/image-85.png)
 
 Về việc xuất bản chính thức sách điện tử, có thể tham khảo bài viết tôi đã viết trước đây 《[Cách Xuất Bản Một Cuốn Sách Nhỏ Qua Internet](https://github.com/easychen/howto-make-more-money/blob/master/ch11.md)》 trong phần giới thiệu về [BookDNA](https://www.bookdna.cn/). Lưu ý vì bài viết được soạn khá sớm, một số nội dung có thể đã lỗi thời, cần tự xác nhận lại.
 
@@ -78,13 +78,13 @@ Những điều trên đều là những hình thức sản phẩm phụ tương
 
 OpenAI đã ra mắt Custom GPT vào tháng 11 năm 2023, cho phép người dùng tùy chỉnh GPT phổ thông thành phiên bản chuyên dụng bằng cách chỉ định prompt, tải lên tài liệu, thêm API làm công cụ, v.v. Và ngày 10 tháng 1 năm 2024, GPT Store được ra mắt, áp dụng mô hình kinh doanh tương tự Apple App Store, cho phép người sáng tạo kiếm tiền từ đó.
 
-![](../../src/images/image-87-1024x799.png)
+![](/images/image-87-1024x799.png)
 
 GPT Store
 
 Thầy [宝玉XP](https://weibo.com/u/1727858283) thường xuyên hoạt động trên Weibo, thường dùng GPT để dịch nhiều bài viết công nghệ và phụ đề video. Sau khi đúc kết phương pháp luận của mình thành Custom GPT và đăng lên GPT Store, ông đã leo lên vị trí số một trong danh mục Writing của GPT Store vào tháng 1 năm 2024.
 
-![](../../src/images/image-86.png)
+![](/images/image-86.png)
 
 GPT dịch bài viết công nghệ
 
@@ -94,4 +94,4 @@ PS: Bạn có thể [bấm vào đây](https://weibo.com/1727858283/498129934378
 
 Thông thường các sản phẩm AI không thể hoàn thành một quy trình làm việc hoàn chỉnh, vì vậy đã xuất hiện nhiều phần mềm quy trình AI. Một ví dụ điển hình là ComfyUI — đây là công cụ quy trình dựa trên Stable Diffusion, có thể bao phủ hoàn toàn các quy trình làm việc khác ngoài việc tạo ảnh.
 
-![](../../src/images/image-88-1024x641.png)
+![](/images/image-88-1024x641.png)

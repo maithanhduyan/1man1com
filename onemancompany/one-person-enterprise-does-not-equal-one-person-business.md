@@ -1,9 +1,9 @@
-Doanh nghiệp một người ≠ Kinh doanh một người
+﻿Doanh nghiệp một người ≠ Kinh doanh một người
 =========
 
 Cấu trúc của cuốn sách này chủ yếu gồm ba mô-đun lớn: Định nghĩa doanh nghiệp một người, Lập kế hoạch doanh nghiệp một người, và Xây dựng kinh doanh một người. Những độc giả tinh ý có thể đã nhận ra rằng, so với hai phần đầu, tiêu đề của phần thứ ba có sự khác biệt — đây không phải là sự trùng hợp ngẫu nhiên.
 
-![](images/image-72-1024x240.png)
+![](/images/image-72-1024x240.png)
 
 Thực ra trong phiên bản phương pháp luận đầu tiên, mô-đun thứ ba ban đầu là Xây dựng doanh nghiệp một người. Nhưng trong hai năm gần đây qua thực hành và lặp lại, chúng tôi phát hiện rằng nếu đồng nhất doanh nghiệp một người với kinh doanh, dễ rơi vào lối tư duy sai lầm.
 
@@ -19,7 +19,7 @@ Tuy nhiên, khi suy nghĩ sâu hơn, ta sẽ nhận ra rằng trong các công t
 
 Mặt khác, đối với doanh nghiệp một người, thất bại trong kinh doanh là điều bình thường, thường xảy ra vài tháng một lần. Nếu chúng ta bỏ đi tất cả từ dự án thất bại và bắt đầu lại, chúng ta thường sẽ dậm chân tại chỗ. Ngược lại, nếu chúng ta biết tận dụng tốt các thành quả trung gian từ dự án thất bại, thì lần sau có thể đứng trên vai chúng mà tiến bước. Cứ như vậy, dù nhiều lần thất bại vẫn tiếp tục chiến đấu, cuối cùng sẽ thành công.
 
-![](images/image-73-1024x456.png)
+![](/images/image-73-1024x456.png)
 
 Doanh nghiệp một người có thể có nhiều mô hình kinh doanh một người
 
@@ -29,7 +29,7 @@ Cách làm của tôi hiện nay là đặt tất cả các dự án dưới th�
 
 Về mặt triển khai kỹ thuật, chúng tôi tách biệt frontend và backend, phân tách hoàn toàn website, client và backend API, đồng thời cải tạo backend API thành một nền tảng mở nội bộ. Như vậy khi ra mắt dự án mới, chỉ cần bổ sung các API còn thiếu vào nền tảng mở, rồi sử dụng trang frontend độc lập để gọi API là xong.
 
-![](images/image-1-414x1024.jpg)
+![](/images/image-1-414x1024.jpg)
 
 Giải pháp backend API thống nhất
 
@@ -38,7 +38,7 @@ Kinh doanh một người không nhằm mục đích sinh lời
 
 Mở rộng thêm tư duy này, nếu chúng ta thấy việc sinh lời từ kinh doanh một người quá khó khăn (điều này thường xảy ra ở giai đoạn đầu của doanh nghiệp một người, do thiếu tài nguyên và kinh nghiệm), thì chúng ta có thể lên kế hoạch một số mô hình kinh doanh một người chuyên dùng để thu thập tài nguyên, giúp giảm bớt khó khăn cho việc kiếm tiền sau này.
 
-![](images/image-71-1024x456.png)
+![](/images/image-71-1024x456.png)
 
 Xây dựng kinh doanh một người
 
@@ -53,7 +53,7 @@ Báo cáo tháng của doanh nghiệp một người
 
 Để suy nghĩ tốt hơn về cách tối ưu hóa phối hợp giữa kinh doanh một người và doanh nghiệp một người, chúng tôi đã thiết kế "Báo cáo tháng doanh nghiệp một người". Báo cáo tháng được chia thành hai phần, áp dụng tương ứng cho đầu tháng và cuối tháng.
 
-![](images/image-81-1024x586.png)
+![](/images/image-81-1024x586.png)
 
 Báo cáo tháng doanh nghiệp một người - Phiên bản đầu tháng
 
@@ -95,7 +95,7 @@ Khi có website độc lập của riêng mình, nội dung và người dùng �
 
 ### Tổng kết cuối tháng
 
-![](images/opb-month-end-1024x583.png)
+![](/images/opb-month-end-1024x583.png)
 
 Báo cáo tháng doanh nghiệp một người - Phiên bản cuối tháng
 

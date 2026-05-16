@@ -1,4 +1,4 @@
-# Cơ sở hạ tầng lý tưởng cho doanh nghiệp một người
+﻿# Cơ sở hạ tầng lý tưởng cho doanh nghiệp một người
 
 Sau khi tìm hiểu về phương pháp luận, chúng ta thường muốn bắt đầu thực hành. Nhưng từ đây, độ khó sẽ tăng đột ngột, đặc biệt đối với những bạn không có nền tảng kỹ thuật sẽ cảm thấy không biết bắt đầu từ đâu.
 
@@ -25,7 +25,7 @@ Nếu không có cơ sở hạ tầng riêng, bạn chỉ có thể bị nền t
 
 Nền tảng có ranh giới đỏ và luật bất thành văn riêng, thậm chí đôi khi xảy ra sai sót. Nếu vô tình vi phạm những vấn đề này, có thể dẫn đến bị khóa tài khoản. Đối với người dùng cá nhân, điều này có thể không nghiêm trọng, nhưng đối với người kinh doanh, có thể khiến công việc kinh doanh xây dựng nhiều năm bị xóa sổ hoàn toàn.
 
-![](images/image-10.png)
+![](/images/image-10.png)
 
 ### Hình thái sản phẩm và thương hiệu
 
@@ -48,7 +48,7 @@ Trên thị trường có rất nhiều phần mềm hoặc dịch vụ SaaS đ�
 
 Giá cao là một vấn đề điển hình, vì phần lớn các SaaS hướng đến doanh nghiệp.
 
-![](images/image-13-1024x759.png)
+![](/images/image-13-1024x759.png)
 
 Định giá của các dịch vụ SaaS điển hình
 
@@ -58,6 +58,6 @@ Mức giá có thể rẻ đối với doanh nghiệp, nhưng lại đắt đố
 
 Một vấn đề khác là nhiều cơ sở hạ tầng không mở cho cá nhân, chẳng hạn như thanh toán.
 
-![](images/image-12-1024x534.png)
+![](/images/image-12-1024x534.png)
 
 Yêu cầu tài liệu đăng ký WeChat Pay

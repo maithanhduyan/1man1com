@@ -1,4 +1,4 @@
-# README
+﻿# README
 
 ## Giấy Phép
 
@@ -10,4 +10,4 @@ Cuốn sách này được phát hành theo [giấy phép CC-BY-NC-SA](https://c
 
 ## Phương Pháp Luận Doanh Nghiệp Một Người
 
-![](../../src/images/opb-book-cover-2.1.jpg)
+![](/images/opb-book-cover-2.1.jpg)

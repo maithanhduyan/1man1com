@@ -1,4 +1,4 @@
-# Chiến lược cạnh tranh: Chiến lược không cạnh tranh
+﻿# Chiến lược cạnh tranh: Chiến lược không cạnh tranh
 
 Trong phần thứ ba của "Lập kế hoạch doanh nghiệp một người", chúng ta sẽ thảo luận về "chiến lược cạnh tranh". Mặc dù chúng ta đã hiểu logic cơ bản và cố gắng hướng đến nhu cầu thiết yếu của thị trường ngách để lựa chọn phân khúc, nhưng dù lựa chọn như thế nào, chúng ta vẫn không thể tránh khỏi cạnh tranh. Do đó, trước khi thiết kế sản phẩm, chúng ta cần xem xét một số chiến lược liên quan đến cạnh tranh.
 
@@ -25,7 +25,7 @@ Nhiều hệ thống thương mại lớn, để đáp ứng nhu cầu đuôi d�
 
 Hệ thống quản lý nội dung (CMS) là lĩnh vực mà các nhà phát triển độc lập rất thích tham gia, nhưng có một người khổng lồ mã nguồn mở — WordPress. Mặc dù nhiều người cho rằng nó đã lỗi thời, nhưng theo dữ liệu năm 2023, WordPress vẫn chiếm 45% thị phần xây dựng website trên toàn thế giới, và có 60.000 plugin miễn phí và 9.000 theme miễn phí. Chưa kể khoảng 10.000 theme trả phí, và những theme này thường có giá không cao.
 
-![](images/wd-1024x963.jpg)
+![](/images/wd-1024x963.jpg)
 
 Hệ sinh thái mã nguồn mở khổng lồ của WordPress
 
@@ -35,7 +35,7 @@ Với thị phần lớn như vậy của WordPress, nếu chúng ta muốn gia 
 
 Có thể có người nghi ngờ, phát triển plugin và theme có kiếm được bao nhiêu tiền?
 
-![](images/image-53-1024x542.png)
+![](/images/image-53-1024x542.png)
 
 Theme bán chạy trên ThemeForest
 
@@ -45,7 +45,7 @@ Có thể tham khảo công ty phát triển theme cho WordPress này, doanh thu
 
 #### Notion
 
-![](images/image-54-1024x659.png)
+![](/images/image-54-1024x659.png)
 
 Trang chủ Notion
 
@@ -59,7 +59,7 @@ Tư duy phát triển các tính năng nhỏ độc lập dựa trên nền tả
 
 #### WebFlow
 
-![](images/image-55-1024x1018.png)
+![](/images/image-55-1024x1018.png)
 
 Trang chủ WebFlow
 
@@ -91,13 +91,13 @@ Danh mục phi tiêu chuẩn hóa đề cập đến những danh mục mà ngay
 
 Ví dụ, chúng ta sẽ không cho rằng "Vương Quốc Duy bình luận Hồng Lâu Mộng" và "Hồ Thích bình luận Hồng Lâu Mộng" có nội dung giống nhau, có thể có nhiều người bình luận và giải thích từ các góc độ khác nhau.
 
-![](images/image-56-775x1024.png)
+![](/images/image-56-775x1024.png)
 
 Nhiều phiên bản bình luận Hồng Lâu Mộng
 
 Thậm chí, cùng một câu chuyện, kể đi kể lại theo những cách khác nhau, miễn là nắm vững kỹ thuật, người đọc đều có thể nghe một cách thích thú, không cảm thấy nhàm chán. Tiểu thuyết Kim Dung đã được chuyển thể thành phim điện ảnh và truyền hình nhiều lần, nhưng mỗi lần đều thu hút nhiều khán giả.
 
-![](images/gs-710x1024.jpg)
+![](/images/gs-710x1024.jpg)
 
 Một câu chuyện có thể được kể theo nhiều cách
 
@@ -127,7 +127,7 @@ Biến cá tính và đặc điểm cá nhân trở thành một phần của s�
 
 Ví dụ, mặc dù nhiều người có thể đang làm điều tương tự, nói về nội dung tương tự, nhưng vì cá tính và phong cách của mỗi người khác nhau, trải nghiệm của người tiêu dùng cũng hoàn toàn khác nhau. Sự khác biệt hóa này loại bỏ mối quan hệ cạnh tranh rõ ràng.
 
-![](images/image-60-833x1024.png)
+![](/images/image-60-833x1024.png)
 
 IP cá nhân trở thành đặc điểm của sản phẩm
 
@@ -139,7 +139,7 @@ Mặt khác, cá nhân hóa và mang tính cá nhân cũng là một trong nhữ
 
 Một ví dụ về thay đổi logic thương mại là hộp mù đồ chơi mô hình. Vốn dĩ có thể bỏ ra một khoản tiền để mua đầy đủ bộ đồ chơi, nhưng bán dưới dạng hộp mù, vừa tăng khả năng người dùng mua lại những đồ chơi đã có, vừa duy trì mong muốn mua của người dùng đối với những đồ chơi chưa có.
 
-![](images/image-59.png)
+![](/images/image-59.png)
 
 Đồ chơi mô hình bán dưới dạng hộp mù
 
@@ -152,7 +152,7 @@ Cách đơn giản nhất để tạo danh mục mới là kết hợp chéo.
 
 Ví dụ, trước đây tôi đã thử tạo ra một sản phẩm nằm giữa khóa học và trò chơi "Mèo Dễ Thương, Bạn Cùng Phòng, Khóa Học Frontend", nó có thể giúp người dùng học một số kiến thức phát triển frontend trong khi chơi game, đây là sản phẩm kết hợp giữa trò chơi và khóa học.
 
-![](images/image-61-1024x740.png)
+![](/images/image-61-1024x740.png)
 
 Trò chơi có thể học kiến thức frontend
 

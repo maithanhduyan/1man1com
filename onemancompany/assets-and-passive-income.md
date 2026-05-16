@@ -1,10 +1,10 @@
-# Nền tảng logic: Tài sản và thu nhập thụ động
+﻿# Nền tảng logic: Tài sản và thu nhập thụ động
 
 ## Bán thời gian không thể quy mô hóa
 
 Đối với thế kỷ 21, tài nguyên quý giá nhất là nhân tài, nhưng đối với doanh nghiệp một người, quý giá nhất lại là thời gian. Thứ khan hiếm nhất chính là quý giá nhất. Như đã đề cập trước đó trong cuốn sách, đối với doanh nghiệp chỉ có một nhân viên toàn thời gian, dù chúng ta làm 10 giờ mỗi ngày, một tuần cũng chỉ có 50 giờ làm việc. Nếu làm theo cách Side Project, số giờ có thể dùng còn ít hơn.
 
-![](../../src/images/image-29-1024x884.png)
+![](/images/image-29-1024x884.png)
 
 Mức lương ngày trên nền tảng
 
@@ -14,19 +14,19 @@ Vì vậy chúng ta cần một cách kiếm tiền không phụ thuộc vào th
 
 ## Tài sản và thu nhập thụ động
 
-![](../../src/images/image-30.png)
+![](/images/image-30.png)
 
 《Cha giàu cha nghèo》
 
 Trong "Cha giàu cha nghèo", Robert Kiyosaki nói một câu rất kinh điển: người giàu không làm việc vì tiền. Muốn quy mô hóa tài sản, phải để tiền làm việc cho bạn. Giải pháp cũng rất đơn giản, đó là liên tục nắm giữ tài sản.
 
-![](../../src/images/image-660x1024.jpg)
+![](/images/image-660x1024.jpg)
 
 Định nghĩa tài sản trong "Cha giàu cha nghèo"
 
 Định nghĩa tài sản trong sách là: "Tài sản là thứ đặt tiền vào túi bạn". Nói cách khác, nếu thứ gì đó có thể mang lại thu nhập liên tục cho bạn khi bạn không làm việc, thì nó có thể được coi là tài sản. Cuốn sách này sẽ theo dõi định nghĩa này.
 
-![](../../src/images/image-31-1024x810.png)
+![](/images/image-31-1024x810.png)
 
 Để tài sản làm việc cho bạn
 
@@ -38,7 +38,7 @@ Vậy, câu hỏi duy nhất còn lại là: làm thế nào để có được 
 
 Tài sản có thể "đặt tiền vào túi bạn", đây là con gà đẻ trứng vàng, tất nhiên ai cũng muốn. Đã là ai cũng muốn, thì không dễ dàng có được.
 
-![](../../src/images/image-32-1024x421.png)
+![](/images/image-32-1024x421.png)
 
 Cách có được tài sản
 
@@ -48,7 +48,7 @@ Nhìn chung, cách có được tài sản không ngoài hai loại: giàu thì 
 
 Nếu bạn có nhiều tiền (trường hợp này ít gặp hơn), thì có thể thông qua đầu tư hoặc mua lại để có được tài sản. Điều này sẽ giúp chúng ta bỏ qua giai đoạn thử sai, trực tiếp mua lại những tài sản đã được thị trường công nhận, đã bắt đầu có MRR (doanh thu định kỳ hàng tháng) tốt.
 
-![](../../src/images/image-33-1024x1018.png)
+![](/images/image-33-1024x1018.png)
 
 indiemaker.co
 
@@ -56,7 +56,7 @@ indiemaker.co
 
 Ví dụ, trên trang web Indie Maker, chúng ta có thể thấy nhiều lập trình viên sẽ bán Side project của họ.
 
-![](../../src/images/image-34-1024x1018.png)
+![](/images/image-34-1024x1018.png)
 
 Dự án đã tạo ra MRR
 
@@ -68,7 +68,7 @@ Mặt khác, khi mua tài sản dạng phần mềm, không nên bỏ qua chi ph
 
 #### Mua lại các tài sản khác
 
-![](../../src/images/image-35-1024x499.png)
+![](/images/image-35-1024x499.png)
 
 Ngoài phần mềm và sản phẩm SaaS, chúng ta cũng có thể xem xét mua các loại tài sản khác. Như trang web, bản quyền, bất động sản, cổ phần, tài khoản và một số nền tảng tự media. Điều này sẽ giúp chúng ta tiết kiệm rất nhiều thời gian.
 
@@ -84,7 +84,7 @@ Ngoài ra, nếu muốn đầu tư cổ phiếu, đó hoàn toàn là một lĩn
 
 #### Sáng tạo hàng hóa kỹ thuật số
 
-![](../../src/images/image-36-1024x581.png)
+![](/images/image-36-1024x581.png)
 
 Các loại hình sáng tạo hàng hóa kỹ thuật số
 
@@ -96,7 +96,7 @@ Tất nhiên, tỷ lệ đầu tư/đầu ra và rủi ro của các loại hìn
 
 #### Tạo ứng dụng internet thông qua NoCode
 
-![](../../src/images/image-37-1024x610.png)
+![](/images/image-37-1024x610.png)
 
 Ví dụ sáng tạo NoCode
 
@@ -123,7 +123,7 @@ Vì vậy, không hiểu công nghệ cũng có thể tạo ứng dụng interne
 
 #### Mã nguồn mở + Tùy chỉnh AI
 
-![](../../src/images/image-38-1024x649.png)
+![](/images/image-38-1024x649.png)
 
 Viết plugin WordPress bằng GPT
 
@@ -143,7 +143,7 @@ Nếu bạn cảm thấy học các chi tiết lập trình quá rắc rối, th
 
 Ở đây chia sẻ với mọi người một tiêu chuẩn của tôi, bao gồm năm tiêu chí đánh giá sau: đầu tư, đầu ra, tính bền vững, rủi ro và ngưỡng.
 
-![](../../src/images/image-39-1024x918.png)
+![](/images/image-39-1024x918.png)
 
 Đánh giá định lượng tài sản
 
@@ -155,7 +155,7 @@ Nếu bạn cảm thấy học các chi tiết lập trình quá rắc rối, th
 
 Nhiều tài sản có đầu ra không lớn, nếu đầu tư cực thấp, cũng có thể thực hiện.
 
-![](../../src/images/image-41-1024x982.png)
+![](/images/image-41-1024x982.png)
 
 Video Bilibili
 
@@ -167,7 +167,7 @@ Cách kiếm tiền của nó rất đơn giản, tức là dưới video có m�
 
 "Thu nhập thụ động" dễ khiến người ta hiểu nhầm rằng sau khi nắm giữ tài sản, không cần làm gì cả, tài sản sẽ liên tục kiếm tiền cho chúng ta. Nhưng thực tế, đầu ra mỗi lần đầu tư có thể mang lại thường giảm dần theo thời gian, vì thị trường thay đổi, nhu cầu cập nhật, xu hướng thay đổi, thiết bị lỗi thời. Chúng ta phải đầu tư lại, mới có thể khôi phục đầu ra. Tính bền vững mô tả thời gian có thể tiếp tục mang lại thu nhập sau khi đầu tư.
 
-![](../../src/images/image-40-1024x976.png)
+![](/images/image-40-1024x976.png)
 
 Tài sản có tính bền vững cao
 

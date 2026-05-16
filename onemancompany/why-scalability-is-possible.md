@@ -1,4 +1,4 @@
-# Nền tảng logic: Tại sao quy mô hóa là có thể
+﻿# Nền tảng logic: Tại sao quy mô hóa là có thể
 
 Tiếp theo, chúng ta hãy khám phá tại sao quy mô hóa trở nên khả thi. Nếu nhìn lại hai đến ba mươi năm qua, chúng ta sẽ thấy rằng đối với một doanh nghiệp một người, việc đạt được quy mô hóa dường như là điều rất khó khăn. Nếu một người có thể xây dựng một công ty lớn, tại sao vẫn cần thuê nhiều nhân viên như vậy?
 
@@ -6,7 +6,7 @@ May mắn thay, thời đại đã thay đổi.
 
 ## Đòn bẩy mới
 
-![](../../src/images/image-21.png)
+![](/images/image-21.png)
 
 《Almanack của Naval》
 
@@ -14,7 +14,7 @@ May mắn thay, thời đại đã thay đổi.
 
 ### Đòn bẩy truyền thống
 
-![](../../src/images/image-22-1024x733.png)
+![](/images/image-22-1024x733.png)
 
 Đòn bẩy truyền thống
 
@@ -28,7 +28,7 @@ Nhưng đối với cá nhân, hai loại đòn bẩy này khó sử dụng hơn
 
 Đòn bẩy mới là những sản phẩm có chi phí sao chép biên bằng không, như nội dung đa phương tiện, bản quyền, code, v.v.
 
-![](../../src/images/image-23-1024x440.png)
+![](/images/image-23-1024x440.png)
 
 So sánh đòn bẩy cũ và mới
 
@@ -36,7 +36,7 @@ Nếu sản phẩm của chúng ta là hàng hóa vật chất, thì quy mô hó
 
 Còn đòn bẩy mới về định nghĩa, hướng tới "quy mô hóa với chi phí (biên) bằng không". Vì với sản phẩm có chi phí sao chép và phân phối bằng không, một khi sản xuất xong, dù sao chép bao nhiêu bản, cũng không phát sinh thêm chi phí. Đây là một phép nhân đơn giản, 0 nhân với bao nhiêu kết quả cũng là 0.
 
-![](../../src/images/image-24-1024x640.png)
+![](/images/image-24-1024x640.png)
 
 Tại sao đòn bẩy mới có thể quy mô hóa
 
@@ -48,7 +48,7 @@ Cụ thể hơn, tự media, khóa học trả phí, sách điện tử, phần 
 
 ## Cơ sở hạ tầng mới
 
-![](../../src/images/image-25-1024x568.png)
+![](/images/image-25-1024x568.png)
 
 Cơ sở hạ tầng mới đang dần trưởng thành
 
@@ -70,7 +70,7 @@ Thực tế thuyết phục hơn lý thuyết, chúng ta thu thập và sắp x�
 
 ### 《Doanh nghiệp một người triệu đô》
 
-![](../../src/images/image-26.png)
+![](/images/image-26.png)
 
 《Doanh nghiệp một người triệu đô》
 
@@ -87,7 +87,7 @@ Sau đây là một số ví dụ từ "Doanh nghiệp một người triệu đ
 
 ### Báo cáo của Trenders.vc
 
-[![](../../src/images/image-27-1024x1018.png)](https://trends.vc/archive/)
+[![](/images/image-27-1024x1018.png)](https://trends.vc/archive/)
 
 Báo cáo xu hướng trends.vc
 
@@ -103,7 +103,7 @@ Trenders.vc là dịch vụ báo cáo xu hướng dành cho các nhà phát tri�
 
 ### Kho trường hợp của IndieHackers
 
-[![](../../src/images/image-28-1024x1018.png)](https://www.indiehackers.com/stories)
+[![](/images/image-28-1024x1018.png)](https://www.indiehackers.com/stories)
 
 Kho trường hợp IH
 

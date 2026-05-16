@@ -1,4 +1,4 @@
-# Kiểm soát rủi ro: Quản lý và tận dụng sự không chắc chắn
+﻿# Kiểm soát rủi ro: Quản lý và tận dụng sự không chắc chắn
 
 Một nguồn rủi ro lớn là sự không chắc chắn, trong bài viết này chúng ta sẽ phân tích chuyên sâu về nó.
 
@@ -9,7 +9,7 @@ Cách đơn giản và hiệu quả nhất để đối phó với sự không c
 
 Phương pháp xử lý sự không chắc chắn từ trước này đã trở thành thông lệ phổ biến trong ngành, hay còn gọi là thực tiễn tốt nhất của ngành. Nó chủ yếu được thực hiện thông qua Sản phẩm Khả thi Tối thiểu (MVP), nhưng cũng có thể được thực hiện qua các hình thức biến thể khác của MVP, như trang đích (landing page) và gọi vốn cộng đồng (crowdfunding). Tư tưởng đằng sau MVP là xác thực các giả thuyết cốt lõi trước, sau đó mới bước vào giai đoạn phát triển sản phẩm.
 
-![](images/image-96-1024x587.png)
+![](/images/image-96-1024x587.png)
 
 Các giả thuyết cốt lõi trong Bản đồ Doanh nghiệp Một Người
 
@@ -21,7 +21,7 @@ Do đó, một bước quan trọng sau khi hoàn thành bản đồ là xác th
 
 Trong trường hợp lý tưởng nhất, một MVP có thể xác thực nhiều giả thuyết cùng lúc. Nhưng nếu không thể xác thực tất cả các giả thuyết bằng một MVP, chúng ta có thể phát triển nhiều MVP, mỗi MVP xác thực các giả thuyết cụ thể.
 
-![](images/image-97.png)
+![](/images/image-97.png)
 
 Đưa sự không chắc chắn lên trước
 
@@ -35,7 +35,7 @@ Ngoài việc có một trang đích mô tả chi tiết sản phẩm, gọi v�
 
 Cần lưu ý ở đây rằng, việc xác thực «Kênh tiếp cận» bản thân đã đầy rẫy sự không chắc chắn, cùng một kênh, chi phí thị trường đầu tư khác nhau thì kết quả xác thực sẽ khác nhau; cùng chi phí thị trường, phương án tiếp thị khác nhau, kết quả xác thực cũng sẽ khác nhau. Do đó, sử dụng phương thức hoàn toàn thực tế như gọi vốn cộng đồng để xác thực thì kết quả mới đáng tin cậy hơn. Hơn nữa, gọi vốn cộng đồng không chỉ có thể xác thực nhu cầu, mà còn đồng thời hoàn thành đơn hàng (vì người dùng phải trả trước); nếu chúng ta đặt mức mục tiêu bằng chi phí phát triển dự án, thì có thể đảm bảo doanh thu tối thiểu trong giai đoạn phát triển. Điều này cực kỳ quan trọng khi vận hành doanh nghiệp một người toàn thời gian.
 
-![](images/image-98-827x1024.png)
+![](/images/image-98-827x1024.png)
 
 Một nhu cầu bị loại bỏ qua gọi vốn cộng đồng đã tiết kiệm từ ba đến sáu tháng
 
@@ -50,7 +50,7 @@ Giao dịch bất đối xứng
 
 Tính chống dễ vỡ là một khái niệm rất đáng suy ngẫm, được đề xuất bởi Nassim Nicholas Taleb trong cuốn sách cùng tên.
 
-![](images/image-99.png)
+![](/images/image-99.png)
 
 *Antifragile*
 
@@ -74,7 +74,7 @@ Trong cuốn *Antifragile*, tác giả đã tổng kết một số phương ph�
 
 Trong *Antifragile* còn có một khái niệm rất quan trọng: giao dịch bất đối xứng. Xuất phát từ một câu chuyện trong sách: một nhà triết học để chứng minh rằng triết học cũng có thể kiếm tiền bằng kiến thức, đã đặt trước quyền sử dụng máy ép dầu ô liu gần đó với giá rất thấp. Khi mùa ô liu đến, nhu cầu tăng vọt, và những người khác không thể thuê máy ép, ông có thể cho thuê lại các máy này với giá cao, từ đó thu được lợi nhuận khổng lồ. Sau khi kiếm được tiền, nhà triết học lại quay trở về thế giới triết học.
 
-![](images/image-100-1024x541.png)
+![](/images/image-100-1024x541.png)
 
 Câu chuyện nhà triết học đặt trước máy ép dầu
 
@@ -85,7 +85,7 @@ Giao dịch bất đối xứng
 
 Tính chống dễ vỡ (anti-fragility) là một khái niệm rất đáng suy nghĩ, được đề xuất bởi Nassim Nicholas Taleb trong cuốn sách cùng tên.
 
-![](images/image-99.png)
+![](/images/image-99.png)
 
 «Anti-Fragile»
 
@@ -109,6 +109,6 @@ Trong cuốn «Anti-Fragile», tác giả tóm tắt một số phương pháp �
 
 Trong «Anti-Fragile» còn có một khái niệm rất quan trọng: giao dịch bất đối xứng. Xuất phát từ một câu chuyện trong sách: một nhà triết học muốn chứng minh rằng nhà triết học cũng có thể kiếm tiền bằng kiến thức, vì vậy ông đã đặt trước quyền sử dụng máy ép dầu ô liu gần đó với giá rất thấp. Khi mùa ô liu đến, nhu cầu tăng vọt, và những người khác không thể thuê được máy ép, ông có thể cho thuê lại những máy này với giá cao, từ đó kiếm được lợi nhuận khổng lồ. Sau khi kiếm tiền xong, nhà triết học này lại quay trở về thế giới triết học.
 
-![](images/image-100-1024x541.png)
+![](/images/image-100-1024x541.png)
 
 Câu chuyện triết học gia đặt trước máy ép dầu
