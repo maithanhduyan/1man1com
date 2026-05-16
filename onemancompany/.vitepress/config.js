@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'vi-VN',
+  base: '/1man1com/',
   title: 'Doanh Nghiệp Một Người',
   description: 'Phương pháp luận xây dựng doanh nghiệp một người - từ định nghĩa đến vận hành',
 

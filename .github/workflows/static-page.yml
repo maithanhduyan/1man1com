@@ -5,8 +5,7 @@ on:
     branches: ["main", "master"]
 
     paths:
-      - "onemancompany/.vitepress/config.js"
-      - "onemancompany/package.json"
+      - "onemancompany/**"
       - ".github/workflows/static-page.yml"
 
   # Allows you to run this workflow manually from the Actions tab

@@ -4,3 +4,5 @@ node_modules/
 onemancompany/.vitepress/cache
 onemancompany/.vitepress/dist
 opc-methodology/
+
+.hotplate/
